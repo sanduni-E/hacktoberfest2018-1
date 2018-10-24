@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: [Sanduni Ekanayaka](https://github.com/sanduni-E)
+Place:(Anuradhapura)Sri Lanka
+About: Undergraduate,Computer Science
+Programming Language: Java, Python
+Email:sanduniue@gmail.com 
